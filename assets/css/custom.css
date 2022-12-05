@@ -491,7 +491,8 @@ Home Page Content Start
 }
 section#home-slider img {
 	width: 100%;
-	height: auto;
+	height: 500px;
+	object-fit: cover;
 }
 #home-slider.owl-theme .owl-nav {
 	position: absolute;
