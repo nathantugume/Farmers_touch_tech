@@ -1668,7 +1668,7 @@ section.services-area ul li.active:after {
 /***************  About  *****************/
 
 .home2-about {
-	background: url(../images/factsbg.png) bottom center #fff no-repeat;
+	background: url(../../images/factsbg.png) bottom center #fff no-repeat;
 }
 .pt80 {
 	padding-top: 80px;
@@ -1767,7 +1767,7 @@ section.services-area ul li.active:after {
 /***************  Urgent Causes  *****************/
 
 .urgent-causes {
-	background: url(../images/urgentcause.png) no-repeat center center #000;
+	background: url(../../images/urgentcause.png) no-repeat center center #000;
 	background-size: cover;
 }
 .section-title-2 h5 {
@@ -1921,7 +1921,7 @@ li.form-submit button:hover {
 /***************  Current Projects  *****************/
 
 .current-projects {
-	background: url(../images/mappatt.jpg) no-repeat;
+	background: url(../../images/mappatt.jpg) no-repeat;
 }
 .current-projects div#myTabContent {
 	width: 100%;
@@ -2045,7 +2045,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*****************  News And Articles  ****************/
 
 .h2-news {
-	background: url(../images/news-artilcesbg.jpg) no-repeat;
+	background: url(../../images/news-artilcesbg.jpg) no-repeat;
 	background-size: cover;
 }
 .blog-post-large {
@@ -2173,7 +2173,7 @@ header .navbar-toggler {
 /*****************  WHY Ecova  ****************/
 
 .why-ecova {
-	background: url(../images/whybg.jpg) no-repeat;
+	background: url(../../images/whybg.jpg) no-repeat;
 	padding: 65px 0 65px;
 	background-size: cover;
 	text-align: center;
